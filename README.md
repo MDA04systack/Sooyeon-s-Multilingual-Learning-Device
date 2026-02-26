@@ -1,7 +1,7 @@
 # 박수연의 다국어 학습기 (Sooyeon's Multilingual Learning Device)
 
 이 프로젝트는 입력된 한국어를 다양한 외국어로 번역하고, 번역된 문장을 음성으로 들어볼 수 있는 Streamlit 기반 웹 애플리케이션입니다.
-(streamlit 접속)[https://sooyeon-s-multilingual-learning-device.streamlit.app/]
+
 
 **🚀 웹 애플리케이션 바로가기:** [https://sooyeon-s-multilingual-learning-device.streamlit.app/](https://sooyeon-s-multilingual-learning-device.streamlit.app/)
 
